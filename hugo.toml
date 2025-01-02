@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://spurs21.github.io/MyWorld/"
 title = "Gray Xu"
 theme = "hugo-coder"
 languagecode = "en"
