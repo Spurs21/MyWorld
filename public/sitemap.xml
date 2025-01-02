@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://spurs21.github.io/MyWorld/about/</loc>
+    <lastmod>2025-01-02T21:59:42+08:00</lastmod>
+  </url><url>
+    <loc>https://spurs21.github.io/MyWorld/</loc>
+    <lastmod>2025-01-02T21:59:42+08:00</lastmod>
+  </url><url>
     <loc>https://spurs21.github.io/MyWorld/authors/</loc>
   </url><url>
     <loc>https://spurs21.github.io/MyWorld/categories/</loc>
-  </url><url>
-    <loc>https://spurs21.github.io/MyWorld/</loc>
   </url><url>
     <loc>https://spurs21.github.io/MyWorld/series/</loc>
   </url><url>

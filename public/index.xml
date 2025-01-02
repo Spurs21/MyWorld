@@ -6,6 +6,14 @@
     <description>Recent content on Gray Xu</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 02 Jan 2025 21:59:42 +0800</lastBuildDate>
     <atom:link href="https://spurs21.github.io/MyWorld/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://spurs21.github.io/MyWorld/about/</link>
+      <pubDate>Thu, 02 Jan 2025 21:59:42 +0800</pubDate>
+      <guid>https://spurs21.github.io/MyWorld/about/</guid>
+      <description>&lt;h3 id=&#34;who-am-i&#34;&gt;&#xA;  Who am I&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#who-am-i&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;I am a developer who is passionate about running and hiking.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
